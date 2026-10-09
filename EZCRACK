@@ -1,4 +1,4 @@
-setfpscap(999)
+setfpscap(50)
 
 print([[
 
