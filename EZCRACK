@@ -303,7 +303,7 @@ Library.ForceCheckbox = false
 Library.ShowToggleFrameInKeybinds = true
 
 Window = Library:CreateWindow({
-	Title = "Nil'e / v2.1.1 CRACKED BY Thats_tomato Ez🥱",
+	Title = "Nil'e / CRACKED",
 	CornerRadius = 8,
 	Footer = "print(" .. "\"Hello " .. LocalPlayer.DisplayName .. "!\")",
 	NotifySide = "Right",
