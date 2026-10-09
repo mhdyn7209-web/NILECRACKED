@@ -1,4 +1,4 @@
-setfpscap(50)
+setfpscap (999)
 
 print([[
 
@@ -303,7 +303,7 @@ Library.ForceCheckbox = false
 Library.ShowToggleFrameInKeybinds = true
 
 Window = Library:CreateWindow({
-	Title = "Nil'e / CRACKED",
+	Title = "Nil'e / v2.1.1",
 	CornerRadius = 8,
 	Footer = "print(" .. "\"Hello " .. LocalPlayer.DisplayName .. "!\")",
 	NotifySide = "Right",
